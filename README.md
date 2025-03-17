@@ -27,7 +27,8 @@
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/e8062253-6242-4c4e-8071-3a5129d27789)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/554b5a34-08be-47ff-8eb8-ee944b675fb4)
+
 
 ### Result:
 Thus sentimental analysis for twitter data is executed successfully using rapidminer.Thus sentimental analysis for twitter data is executed successfully using rapidminer.
